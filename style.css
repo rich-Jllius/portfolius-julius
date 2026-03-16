@@ -1,0 +1,13 @@
+body {
+display: flex;
+flex-direction: column
+}
+header {
+  background-image: linear-gradient(rgb(116, 114, 124), rgb(67, 67, 73));
+  text-align: center;
+}
+form{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
